@@ -3252,6 +3252,13 @@ section.lazy-placeholder:after {
 .cid-rFWWuA6YHQ .mbr-text {
   color: #767676;
 }
+.cid-rHahLlxON8 {
+  background-image: url("../../../assets/images/collage-bg-1920x1080.png");
+}
+.cid-rHahLlxON8 .mbr-text,
+.cid-rHahLlxON8 .mbr-section-btn {
+  color: #ffffff;
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #333333;
