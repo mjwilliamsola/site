@@ -4430,7 +4430,7 @@
             },
             ".responsive-iframe-container": {
               "position": "relative",
-              "padding-bottom": "56.25%",
+              "padding-bottom": "76%",
               "padding-top": "30px",
               "height": "0",
               "overflow": "scroll"
@@ -4444,7 +4444,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n   <!-- Responsive iFrame -->\n<div class=\"responsive-iframe-container\">\n    <iframe src=\"https://docs.google.com/forms/d/e/1FAIpQLScfWB7tRs8RKD2LcuOZxvhFP4m_nsIVZj4GZHYfEF3zH6ZYkg/viewform?embedded=true\" width=\"640\" height=\"2205\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\"></iframe><center/>\n</div>\n                     \n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n   <!-- Responsive iFrame -->\n<div class=\"responsive-iframe-container\">\n    <iframe src=\"https://docs.google.com/forms/d/e/1FAIpQLScfWB7tRs8RKD2LcuOZxvhFP4m_nsIVZj4GZHYfEF3zH6ZYkg/viewform?embedded=true\" width=\"760\" height=\"3000\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\"></iframe><center></center>\n</div>\n                     \n</section>",
           "_cid": "rHaCziuyUD",
           "_anchor": "content1-27",
           "_protectedParams": [],

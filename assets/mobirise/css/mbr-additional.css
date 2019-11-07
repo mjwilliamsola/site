@@ -4474,7 +4474,7 @@ section.lazy-placeholder:after {
 }
 .cid-rHaCziuyUD {
   padding-top: 120px;
-  padding-bottom: 0px;
+  padding-bottom: 120px;
   background-color: #ffffff;
 }
 .cid-rHaCziuyUD .mbr-text,
@@ -4483,7 +4483,7 @@ section.lazy-placeholder:after {
 }
 .cid-rHaCziuyUD .responsive-iframe-container {
   position: relative;
-  padding-bottom: 56.25%;
+  padding-bottom: 76%;
   padding-top: 30px;
   height: 0;
   overflow: scroll;
